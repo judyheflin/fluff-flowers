@@ -6,7 +6,7 @@ a last-minute #nanogenmo submission inspired by last-minute #nanowrimo writers
 
 ***
 
-“Stick to it; don't let fluff and flowers and verbosity creep in.When you catch an adjective, kill it.” 
+“Stick to it; don't let fluff and flowers and verbosity creep in. When you catch an adjective, kill it.” 
 ~ Mark Twain, SLC to David Watt Bowser
 
 “I believe the road to hell is paved with adverbs, and I will shout it from the rooftops.” 
