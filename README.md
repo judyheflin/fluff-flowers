@@ -14,4 +14,4 @@ a last-minute #nanogenmo submission inspired by last-minute #nanowrimo writers
 
 ***
 
-A petty adjective/adverb bomb to help you get to your word count. Every noun gets an adjective, every verb gets an adverb. 
+A petty adjective/adverb bomb to help you get to your word count. Every noun gets an adjective, every verb gets an adverb. Some grammar and formatting issues, but gets the job done!
