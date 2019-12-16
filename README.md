@@ -1,8 +1,6 @@
-# fluff-flowers
+# Fluff and Flowers: Paving the Road to Hell
 
 a last-minute #nanogenmo submission inspired by last-minute #nanowrimo writers
-
-# Fluff and Flowers: Paving the Road to Hell
 
 ***
 
